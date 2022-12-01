@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
-assignees: ''
+labels: 2022, bug, triage
+assignees: gaddlord
 
 ---
 

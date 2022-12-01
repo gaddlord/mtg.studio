@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
-assignees: ''
+labels: 2022, feature, triage
+assignees: gaddlord
 
 ---
 
