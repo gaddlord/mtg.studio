@@ -28,3 +28,6 @@ Collector No: no collector no
 Color: Red
 Released: 1 Jan 1996
 Notes: HarperPrism El Bosque de los Susurros novel purchase bonus. Misprint White Border.
+
+———
+Upvote my request be pressing 👍 from the 😊 menu.
