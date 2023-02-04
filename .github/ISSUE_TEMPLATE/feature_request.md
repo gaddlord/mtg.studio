@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: 2022, feature, triage
+labels: 2023, feature, triage
 assignees: gaddlord
 
 ---
