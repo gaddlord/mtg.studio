@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: 2022, bug, triage
+labels: 2023, bug, triage
 assignees: gaddlord
 
 ---
