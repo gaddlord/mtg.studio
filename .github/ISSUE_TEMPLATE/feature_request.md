@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: 2023, feature, triage
+labels: feature, triage
 assignees: gaddlord
 
 ---
@@ -23,4 +23,4 @@ If applicable, add screenshots to help explain your request.
 Add any other context or screenshots about the feature request here.
 
 ———
-Upvote my bug report be pressing 👍 from the 😊 menu.
+Upvote my feature request be pressing 👍 from the 😊 menu.
