@@ -2,7 +2,7 @@
 name: Question
 about: Ask a question on how to use MTG Studio
 title: ''
-labels: 2023, question, triage
+labels: question, triage
 assignees: gaddlord
 
 ---
