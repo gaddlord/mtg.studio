@@ -2,7 +2,7 @@
 name: Missing Card
 about: Report a missing card
 title: "[Missing Card] "
-labels: 2023, cards, triage
+labels: cards, triage
 assignees: gaddlord
 
 ---
