@@ -8,7 +8,7 @@ https://github.com/gaddlord/mtg.studio/issues
 
 https://github.com/gaddlord/mtg.studio/wiki
 
-## Build State
+Build State
 
 [![Build MTG Studio 4.0 on Linux (for Web, Linux, and Android)](https://github.com/gaddlord/mtg.studio.src/actions/workflows/ci-linux-web-android.yaml/badge.svg)](https://github.com/gaddlord/mtg.studio.src/actions/workflows/ci-linux-web-android.yaml)
 
@@ -16,6 +16,8 @@ https://github.com/gaddlord/mtg.studio/wiki
 
 [![Build MTG Studio 4.0 on Windows (for Windows)](https://github.com/gaddlord/mtg.studio.src/actions/workflows/ci-windows.yaml/badge.svg)](https://github.com/gaddlord/mtg.studio.src/actions/workflows/ci-windows.yaml)
 
-## Status Page
+Status Page
+
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1le32.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 https://status.mtg.studio
