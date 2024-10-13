@@ -1,5 +1,12 @@
 # MTG Studio
 
+https://mtg.studio
+
+This is the public repo for MTG Studio - a popular Magic: the Gathering collection editor and deck builder.
+This repo contains the requested new features, internally documented ones and bugs.
+The wiki page on this site is a form of manual for MTG Studio.
+MTG Studio is closed source so you should not expect to find its source code here.
+
 ## List of issues
 
 https://github.com/gaddlord/mtg.studio/issues
