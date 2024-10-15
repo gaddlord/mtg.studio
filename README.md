@@ -29,6 +29,10 @@ Build State
 
 https://status.mtg.studio
 
+## MTG Studio Discord Channel
+
+https://discord.gg/QvSFfQVztX
+
 ## Page Rank
 
 <a href="https://checkpagerank.net/check-page-rank.php" title="internet marketing" target="_blank"><img src="https://checkpagerank.net/pricon.php?key=9aa77617483c875747a01c23fb9e097d" alt="google backlink checker" /></a>
