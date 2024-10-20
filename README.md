@@ -25,7 +25,9 @@ Build State
 
 ## Status Page
 
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1le32.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+Web Site [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1le32.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
+API [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1m0n3.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 https://status.mtg.studio
 
